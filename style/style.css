@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&family=Caveat&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+   font-family: 'Balsamiq Sans', cursive;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+body {
+    background-image: url(../images/back11.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+#tag {
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+}
+#img1 {
+    padding: 50px;
+}
+#paragraf {
+    text-align: right;
+    font-size: 20px;
+    margin: 25px;
+    color: white;
+}
+.link .box a {
+    display: inline-block;
+      background-color: #0447cc;
+    opacity: 0.6;
+    border-radius: 50px;
+    padding: 10px;
+      color: white;
+    font-size: 30px;
+    cursor: crosshair;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
